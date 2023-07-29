@@ -1,6 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=akshayjoshi892&icon=0&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
 I'm currently learning Angular and Node.Js
-[![](https://visitcount.itsvg.in/api?id=akshayjoshi892&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshayjoshi__aj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayjoshi892) 
