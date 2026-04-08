@@ -1,34 +1,58 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshay%20Joshi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AOSP%20Developer%20%7C%20ML%20Explorer&descAlignY=55&descSize=16" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TYPING ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Akshay+Joshi+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%9A%80;AOSP+%26+Java+Developer+%F0%9F%A4%96;Machine+Learning+Explorer+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=00FFF0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A4%96+AOSP+%26+Java+%40+Zebra+Technologies;%F0%9F%A7%A0+Diving+Deep+into+Machine+Learning;%F0%9F%8C%90+Full+Stack+%7C+Mobile+%7C+Backend+Dev;%E2%9A%A1+From+0s+%26+1s+to+Real-World+Solutions)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FBE&height=120&section=header&animation=fadeIn" width="100%"/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-akshay--joshii.netlify.app-00D9FF?style=for-the-badge&labelColor=0D1117)](https://akshay-joshii.netlify.app)
-[![Visitors](https://visitcount.itsvg.in/api?id=akshayjoshi892&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              VISITOR COUNTER — WORKING (komarev)              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshayjoshi892&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/akshayjoshi892?style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS)](https://github.com/akshayjoshi892)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-0891b2?style=for-the-badge&labelColor=1c1917)](https://akshay-joshii.netlify.app)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
 
 ```python
+#!/usr/bin/env python3
+
 class AkshayJoshi:
+
     def __init__(self):
         self.name        = "Akshay Joshi"
-        self.role        = "Associate Software Engineer"
-        self.company     = "Zebra Technologies"
-        self.team        = "BSPA Framework"
-        self.focus       = ["AOSP", "Java", "Full Stack"]
-        self.learning    = "Machine Learning 🧠"
-        self.goal        = "Build things that matter"
+        self.pronouns    = "He / Him"
+        self.role        = "Software Engineer"
+        self.company     = "Boeing"
+        self.team        = "Full stack dev"
+        self.stack       = ["Python", "Java", "Full Stack"]
+        self.currently   = "📖 Learning Deep Learning from scratch"
+        self.next_goal   = "🤖 Build end-to-end ML project"
+        self.fun_fact    = "I debug in my dreams 💭"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something great.")
+        print("Thanks for stopping by!")
+        print("Let's connect and build something amazing! 🚀")
 
 me = AkshayJoshi()
 me.say_hi()
@@ -38,18 +62,23 @@ me.say_hi()
 
 ---
 
-## 🚀 Current Status
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> Current Status
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-🏢 **Working At** → Zebra Technologies (BSPA Team)  
-🔧 **Stacking** → AOSP + Java  
-🧠 **Learning** → Deep Learning from Scratch  
-🌱 **Exploring** → Machine Learning & Neural Networks  
-🎯 **Next Goal** → Build an end-to-end ML project  
-⚡ **Fun Fact** → I debug in my dreams
+**🏢 Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SWE @ Boeing  
+**⚙️ Team** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full stack + Python  
+**🌱 Learning** &nbsp;&nbsp;&nbsp; Deep Learning from Scratch  
+**🎯 Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deploy a real-world ML model  
+**🔍 Exploring** &nbsp; Neural Nets · CNNs · NLP  
+**⚡ Fun Fact** &nbsp;&nbsp;&nbsp; Coffee → Code → Repeat ☕  
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayjoshi892&theme=tokyonight" width="100%"/>
 
 </td>
 </tr>
@@ -57,107 +86,140 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ML LEARNING JOURNEY                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="32"> ML / AI Learning Roadmap
 
 <div align="center">
 
-### 💬 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+```
+🧠  MACHINE LEARNING ROADMAP  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ✅  Python for ML (NumPy · Pandas · Matplotlib) ─  [████████████] 100%
+  ✅  Math: Statistics · Linear Algebra · Calculus ─  [████████░░░░]  70%
+  🔄  Supervised Learning (Regression / Class.) ───  [██████░░░░░░]  50%
+  🔄  Scikit-learn & Model Building ───────────────  [████░░░░░░░░]  35%
+  ⏳  Neural Networks & Deep Learning ─────────────  [██░░░░░░░░░░]  15%
+  ⏳  TensorFlow / PyTorch ────────────────────────  [░░░░░░░░░░░░]   0%
+  ⏳  Computer Vision (CNN) ───────────────────────  [░░░░░░░░░░░░]   0%
+  ⏳  NLP & Transformers ──────────────────────────  [░░░░░░░░░░░░]   0%
+  ⏳  MLOps & Model Deployment ────────────────────  [░░░░░░░░░░░░]   0%
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   📍  Currently: Supervised Learning & Feature Engineering
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+</div>
 
-### 🤖 ML / AI (Currently Learning)
-![Python](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Arsenal
+
+<div align="center">
+
+### ⟨ Languages ⟩
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,c,bash&theme=dark)](https://skillicons.dev)
+
+### ⟨ Frontend ⟩
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark)](https://skillicons.dev)
+
+### ⟨ Backend ⟩
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
+
+### ⟨ Databases ⟩
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,prisma&theme=dark)](https://skillicons.dev)
+
+### ⟨ ML / AI — Currently Learning 🧠 ⟩
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### ⟨ Tools & Platforms ⟩
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,jira&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayjoshi892&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjoshi892&theme=tokyonight&hide_border=true" width="49%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjoshi892&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" width="40%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=akshayjoshi892&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=ffffff&border_radius=10" width="48%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjoshi892&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFF0&fire=FF6B6B&currStreakLabel=00FFF0&border_radius=10" width="48%"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjoshi892&bg_color=1a1b27&color=00d9ff&line=7b2fbe&point=ffffff&area=true&hide_border=true" width="95%"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjoshi892&theme=tokyonight&hide_border=true&layout=donut&bg_color=0D1117&title_color=00FFF0&text_color=ffffff&border_radius=10&langs_count=8&count_private=true" width="36%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshayjoshi892&theme=tokyonight" width="27%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshayjoshi892&theme=tokyonight" width="27%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjoshi892&bg_color=0D1117&color=00FFF0&line=7B2FBE&point=00FFF0&area=true&area_color=7B2FBE&hide_border=true&radius=8" width="95%"/>
+
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TROPHIES                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=akshayjoshi892&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=akshayjoshi892&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
 
 </div>
 
 ---
 
-## 🧠 ML Learning Journey
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONNECT                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-> *"The journey of a thousand miles begins with a single step."*
-
-```
-📍 Where I Am Now:
-[██████░░░░░░░░░░░░░░] 30% — Foundations of ML
-
-✅ Python for ML (NumPy, Pandas, Matplotlib)
-✅ Statistics & Linear Algebra basics
-🔄 Supervised Learning (Regression, Classification)
-⏳ Neural Networks & Deep Learning
-⏳ Computer Vision & NLP
-⏳ Building real-world ML projects
-```
-
----
-
-## 🌐 Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayjoshii)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/akshay_joshi#0921)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://akshay-joshii.netlify.app)
+<a href="https://linkedin.com/in/akshayjoshii">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/akshay_joshi#0921">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://akshay-joshii.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/akshayjoshi892">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=520&lines=Always+open+to+collaborating+on+interesting+projects!;Got+an+idea%3F+Let%27s+build+it+together+%F0%9F%9A%80;DMs+are+always+open+%F0%9F%92%AC)](https://git.io/typing-svg)
 
 </div>
 
@@ -173,12 +235,18 @@ me.say_hi()
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FOOTER                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**⭐ If you find my work interesting, give my repos a star! ⭐**
+![Profile Views](https://komarev.com/ghpvc/?username=akshayjoshi892&style=flat-square&color=0891b2&label=Total+Profile+Views)
 
-[![](https://visitcount.itsvg.in/api?id=akshayjoshi892&icon=6&color=1)](https://visitcount.itsvg.in)
+**⭐ Found something cool? Star my repos — it keeps me going! ⭐**
+
+<sub>Crafted with ❤️ + ☕ by Akshay Joshi</sub>
 
 </div>
